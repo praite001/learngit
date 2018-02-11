@@ -1,2 +1,2 @@
 # git 
-echo "hellod word"
+echo "hello world"
